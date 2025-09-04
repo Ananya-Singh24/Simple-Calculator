@@ -12,6 +12,3 @@ A simple calculator built using HTML, CSS, and JavaScript.This project performs 
 - HTML – Structure of the calculator
 - CSS – Styling and layout
 - JavaScript– Functionality and logic
-
-You can find live demo of project here 
-
