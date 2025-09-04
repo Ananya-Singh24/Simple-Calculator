@@ -13,3 +13,5 @@ A simple calculator built using HTML, CSS, and JavaScript.This project performs 
 - CSS – Styling and layout
 - JavaScript– Functionality and logic
 
+You can find live demo of project here 
+
